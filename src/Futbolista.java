@@ -14,6 +14,6 @@ public class Futbolista extends Seleccio{
         System.out.println(getNombre() + " esta jugando un partido");
     }
     public void entrenar(){
-        System.out.println(getNombre() + "esta entrenando");
+        System.out.println(getNombre() + " esta entrenando");
     }
 }
